@@ -1,0 +1,21 @@
+1. Probability of drawing a red card (hearts or diamonds):
+ standard deck = 52 cards, red cards =26
+ So P(red)= 26/52 = 1/2​
+
+2. Probability that the card is a heart given that it is red:
+13 are hearts so,
+ P(heart∣red) = 13/26= 1/2
+
+3. Probability that the card is a diamond given that it is a face card (J, Q, K):
+one suit = 3 face cards, so total face cards = 4×3=12.
+Out of these, 3 belong to diamonds. So,
+ P(diamond∣face) = 3/12 = 1/4​
+
+4. Probability that the card is a spade or a queen given that it is a face card:
+ Face cards total = 12
+Spade face cards = 3
+Total queens = 4
+queen n spades = 1
+ Favorable outcomes = 3+4−1=7
+So,
+ P(spade or queen∣face)= 6 / 12 - 1/2
